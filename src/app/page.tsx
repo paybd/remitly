@@ -305,7 +305,7 @@ export default function Home() {
             হাজারো সন্তুষ্ট রিসেলারের সাথে যোগ দিন
           </p>
           <a
-            href="/remitly-ewallet.apk"
+            href="https://github.com/paybd/remitly/releases/download/remitlyewallet/remitly-ewallet.apk"
             className={`inline-flex items-center justify-center rounded-lg bg-white text-[#0067cb] px-8 py-3 text-base font-semibold hover:bg-white/90 transition-all duration-300 shadow-lg hover:scale-105 hover:shadow-xl ${
               isVisible.cta ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
             }`}

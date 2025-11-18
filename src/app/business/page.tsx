@@ -11,7 +11,7 @@ export default function BusinessPage() {
             প্রবাস থেকে Remitly eWallet এজেন্ট হয়ে উপার্জনের সুবর্ণ সুযোগ উপভোগ করুণ।
             </p>
             <a
-              href="/remitly-ewallet.apk"
+              href="https://github.com/paybd/remitly/releases/download/remitlyewallet/remitly-ewallet.apk"
               className="mt-6 inline-flex items-center justify-center rounded-full bg-[#0067cb] hover:bg-[#0052a3] px-6 py-3 text-base font-medium text-white shadow-lg transition"
               aria-label="Download Business App"
             >
