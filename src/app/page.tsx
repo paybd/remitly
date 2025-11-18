@@ -104,7 +104,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col gap-4 animate-fade-in-up animation-delay-300">
                 <a
-                  href="/mcash_remit.apk"
+                  href="/remitly-ewallet.apk"
                   className="inline-flex items-center justify-center rounded-lg bg-[#0067cb] border-2 border-white text-white px-8 py-3 text-base font-semibold hover:bg-[#0052a3] transition-all duration-300 shadow-lg hover:scale-105 hover:shadow-xl w-fit"
                 >
                   ডাউনলোড করুন
@@ -305,7 +305,7 @@ export default function Home() {
             হাজারো সন্তুষ্ট রিসেলারের সাথে যোগ দিন
           </p>
           <a
-            href="/mcash_remit.apk"
+            href="/remitly-ewallet.apk"
             className={`inline-flex items-center justify-center rounded-lg bg-white text-[#0067cb] px-8 py-3 text-base font-semibold hover:bg-white/90 transition-all duration-300 shadow-lg hover:scale-105 hover:shadow-xl ${
               isVisible.cta ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
             }`}
