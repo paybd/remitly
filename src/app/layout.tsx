@@ -73,6 +73,13 @@ export default function RootLayout({
                   <li><Link href="/contact" className="hover:text-[#0067cb] transition-colors">যোগাযোগ করুন</Link></li>
                   <li><Link href="https://github.com/paybd/remitly/releases/download/remitlyewallet/remitly-ewallet.apk" className="hover:text-[#0067cb] transition-colors">ডাউনলোড</Link></li>
                 </ul>
+                <div className="mt-4 text-sm text-neutral-600">
+                  <address className="not-italic">
+                    <p>1111 3rd Ave, Suite 2100</p>
+                    <p>Seattle, WA 98101</p>
+                    <p>United States</p>
+                  </address>
+                </div>
               </div>
 
               {/* Legal */}

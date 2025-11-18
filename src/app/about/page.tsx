@@ -64,6 +64,20 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
+
+      {/* Address */}
+      <section className="py-16 sm:py-24 bg-neutral-50">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="rounded-3xl bg-white shadow-2xl ring-1 ring-black/5 p-6 sm:p-8">
+            <h2 className="text-2xl sm:text-3xl font-semibold tracking-tight text-neutral-900 mb-4">আমাদের ঠিকানা</h2>
+            <address className="not-italic text-neutral-700">
+              <p>1111 3rd Ave, Suite 2100</p>
+              <p>Seattle, WA 98101</p>
+              <p>United States</p>
+            </address>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
