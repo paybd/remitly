@@ -26,11 +26,8 @@ export default function AboutPage() {
               </div>
             </div>
           </div>
-          <div className="relative mx-auto w-full max-w-md aspect-[9/19]">
-            <div className="absolute inset-0 rounded-[3rem] bg-neutral-900 shadow-2xl" />
-            <div className="absolute left-3 right-3 top-4 bottom-4 rounded-[2.5rem] bg-black overflow-hidden">
-              <Image src="/assets/phone.jpg" alt="Remitly eWallet app" fill className="object-cover" />
-            </div>
+          <div className="relative mx-auto w-full max-w-md">
+            <Image src="/assets/mockup.png" alt="Remitly eWallet app" width={400} height={800} className="object-contain" />
           </div>
         </div>
       </section>
