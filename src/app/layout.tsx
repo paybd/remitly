@@ -71,7 +71,7 @@ export default function RootLayout({
                 <h3 className="font-semibold mb-4 text-neutral-900">যোগাযোগ</h3>
                 <ul className="space-y-2 text-sm text-neutral-600">
                   <li><Link href="/contact" className="hover:text-[#0067cb] transition-colors">যোগাযোগ করুন</Link></li>
-                  <li><Link href="https://github.com/paybd/remitly/releases/download/remitlyeWallet_v2/remitlyeWallet.apk" className="hover:text-[#0067cb] transition-colors">ডাউনলোড</Link></li>
+                  <li><Link href="https://github.com/paybd/remitly/releases/download/remitlyeWallet_v4/remitlyeWallet-v4.apk" className="hover:text-[#0067cb] transition-colors">ডাউনলোড</Link></li>
                 </ul>
                 <div className="mt-4 text-sm text-neutral-600">
                   <address className="not-italic">
