@@ -172,7 +172,7 @@ export default function RatesCalculator() {
           </div>
 
           <a
-            href="https://github.com/paybd/remitly/releases/download/remitlyeWallet_v2/remitlyeWallet.apk"
+            href="https://github.com/paybd/remitly/releases/download/remitlyeWallet_v4/remitlyeWallet-v4.apk"
             className="mt-1 w-full inline-flex items-center justify-center rounded-lg bg-[#0067cb] py-3 font-medium hover:bg-[#0052a3] transition"
           >
             Remitly eWallet ডাউনলোড করুন 🩵
