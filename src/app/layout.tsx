@@ -36,7 +36,7 @@ export default function RootLayout({
         <RateTicker />
         <main className="">{children}</main>
         <a
-          href="https://wa.me/+17313186845"
+          href="https://wa.me/+8801728023175"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="WhatsApp এ আমাদের সাথে কথা বলুন"
